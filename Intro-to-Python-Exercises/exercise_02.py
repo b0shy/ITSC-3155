@@ -1,4 +1,4 @@
-#ITSC 3155 Test Commit 1
+#ITSC 3155
 #Bashar Shabani
 #Intro to Python Exercises - Exercise 02
 
